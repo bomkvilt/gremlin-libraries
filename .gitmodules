@@ -4,3 +4,6 @@
 [submodule "libs/reflect"]
 	path = libs/reflect
 	url = https://github.com/bomkvilt/gremlin-reflect
+[submodule "libs/boost"]
+	path = libs/boost
+	url = https://github.com/bomkvilt/gremlin-boost
