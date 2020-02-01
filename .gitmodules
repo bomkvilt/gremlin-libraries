@@ -1,3 +1,6 @@
 [submodule "cmake/gremlin"]
 	path = cmake/gremlin
 	url = https://github.com/bomkvilt/gremlin
+[submodule "libs/reflect"]
+	path = libs/reflect
+	url = https://github.com/bomkvilt/gremlin-reflect
