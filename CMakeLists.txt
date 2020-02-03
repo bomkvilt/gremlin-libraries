@@ -17,4 +17,5 @@ project("libs")
 GN_subprojects(
     libs/boost
     libs/reflect
+    libs/math
     )
